@@ -1,0 +1,41 @@
+Noticing Person:
+
+Blockchain was implemented Satoshi Nakamoto in 2008.
+The basic concept of cryptography was introduced by the Stuart Haber and W.Scott Stronetta in 1991.
+
+The Blockchain protocol was introduced in 1982 by David Chaum.
+
+
+The Problem:
+
+To avoid the tampering of digital data being used.
+
+
+The technology:
+
+Blockchain is a decentralised digital lender.
+A blockchain is a peer to peer in which the data blocks are being added after their completion and are sync in the chronological order which prevents it from stealing.
+
+
+Blockchain is Further divided into EVM and TVM based which has its own set of working blockchain network.
+Solidity is OOL used in EVM. And similarly the Vyper is a OOL in python language used in EVM. And aslo rust used in EVM.
+Moonbeam / Moonriver is a blockchain in the common one in both of them which gives cross chain interoperability between Ethereum and Polkadot.
+
+The framework they use are Hardhat and Foundry and more......
+
+Tool used in security such as a Slither as an Solidity static analysis framework written in python 3.
+Mythx is for EVM security and more......
+
+
+Creation of Dapps:
+
+Supported Languages: Go, Js, Python.
+Frontend Frameworks: React, Vue, Angular
+
+Use of client library to reduce the work to build the Blocks again for wheels.
+Use of Client Nodes is use to verify blocks and transaction data.
+
+Naas: Running your blockchain node is challenging, it complies services which help your in running nodes like Infure, Alchemy, etc..
+
+
+
